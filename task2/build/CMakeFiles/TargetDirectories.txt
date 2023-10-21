@@ -1,0 +1,8 @@
+/home/toanlp/workspace/ss2/task2/build/CMakeFiles/Dog.dir
+/home/toanlp/workspace/ss2/task2/build/CMakeFiles/Mammal.dir
+/home/toanlp/workspace/ss2/task2/build/CMakeFiles/GuineaPig.dir
+/home/toanlp/workspace/ss2/task2/build/CMakeFiles/Horse.dir
+/home/toanlp/workspace/ss2/task2/build/CMakeFiles/Cat.dir
+/home/toanlp/workspace/ss2/task2/build/CMakeFiles/task2.dir
+/home/toanlp/workspace/ss2/task2/build/CMakeFiles/edit_cache.dir
+/home/toanlp/workspace/ss2/task2/build/CMakeFiles/rebuild_cache.dir

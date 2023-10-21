@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMammal.a CMakeFiles/Mammal.dir/lib/Mammal.cpp.o
+/usr/bin/ranlib libMammal.a

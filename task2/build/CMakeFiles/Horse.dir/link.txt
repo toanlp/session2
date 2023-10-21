@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHorse.a CMakeFiles/Horse.dir/lib/Horse.cpp.o
+/usr/bin/ranlib libHorse.a

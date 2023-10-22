@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/task2.dir/main.cpp.o -o task2  libDog.a libMammal.a libGuineaPig.a libHorse.a libCat.a 

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libGuineaPig.a CMakeFiles/GuineaPig.dir/lib/GuineaPig.cpp.o
-/usr/bin/ranlib libGuineaPig.a

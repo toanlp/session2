@@ -1,4 +1,0 @@
-/home/toanlp/workspace/ss2/task1/build/CMakeFiles/task1.dir
-/home/toanlp/workspace/ss2/task1/build/CMakeFiles/main.dir
-/home/toanlp/workspace/ss2/task1/build/CMakeFiles/edit_cache.dir
-/home/toanlp/workspace/ss2/task1/build/CMakeFiles/rebuild_cache.dir
